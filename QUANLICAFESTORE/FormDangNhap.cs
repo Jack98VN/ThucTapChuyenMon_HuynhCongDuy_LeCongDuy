@@ -15,7 +15,7 @@ namespace QUANLICAFESTORE
 {
     public partial class FormDangNhap : Form
     {
-        string strConnection = @"Data Source=LAPTOP-PCEQUR9I\SQLEXPRESS;Initial Catalog=CAFE1;Integrated Security=True";
+        string strConnection = @"";
         SqlConnection conn;
         SqlCommand command;
 
